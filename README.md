@@ -1,6 +1,10 @@
 ### Hello there!
-Hi, I program stuff I guess, and I like C++ and typescript. \
-Oh, and python is shit.
+I like to program stuff sometimes I guess. \
+Neovim and low-level languages enjoyer.
 
-Anyways, here is some of the stuff I've done! \
-*\<Examples Pending>*
+Currently developping a [small assembly like language](https://github.com/davawen/Simple-VM).
+
+---
+![Arthaud Awen's github stats](https://github-readme-stats.vercel.app/api?username=davawen&theme=gruvbox&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
