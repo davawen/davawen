@@ -1,6 +1,6 @@
 ### Hello there!
 I like to program stuff sometimes I guess. \
-Neovim and low-level languages enjoyer.
+Neovim enjoyer.
 
 Currently developping a [small assembly like language](https://github.com/davawen/Simple-VM).
 
