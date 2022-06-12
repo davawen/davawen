@@ -1,8 +1,6 @@
 ### Hello there!
-I like to program stuff sometimes I guess. \
-Neovim enjoyer.
-
-Currently developping a [small assembly like language](https://github.com/davawen/Simple-VM).
+I like to program stuff for fun sometimes!  
+Neovim/Linux enjoyer.
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davawen&layout=compact&theme=dark)
