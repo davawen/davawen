@@ -2,7 +2,7 @@
 I like to program stuff!  
 Linux/Neovim.
 
-Will soon get mirrored on [codeberg](https://codeberg.org/davawen).
+New projects will be put on [Source hut](https://git.sr.ht/~davawen/) and will potentially be mirrored on github.
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davawen&layout=compact&theme=dark)
